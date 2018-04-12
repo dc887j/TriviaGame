@@ -58,6 +58,10 @@ body {
   text-align: center;
   padding-bottom: 48px;
 }
+  #start-button {
+    text-align: center;
+    padding-bottom: 48px;
+}
 #charlotte {
   height: auto;
   max-width: 44%;
